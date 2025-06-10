@@ -1,5 +1,3 @@
-#![feature(atomic_min_max)]
-
 pub mod direct_tests;
 pub mod dummy_tests;
 pub mod garbling_benches;
